@@ -1,0 +1,10 @@
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\obj\Debug\H5P.csprojResolveAssemblyReference.cache
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\obj\Debug\H5P.csproj.CoreCompileInputs.cache
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\bin\Debug\H5P.dll
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\bin\Debug\H5P.pdb
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\obj\Debug\H5P.dll
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\obj\Debug\H5P.pdb
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\bin\Debug\Json.dll
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\bin\Debug\Json.pdb
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rfc\personal_tfs\UpWorkProjects\H5P\H5P\bin\Debug\Newtonsoft.Json.xml
