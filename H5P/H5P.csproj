@@ -81,6 +81,7 @@
     <Compile Include="Types.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="h5p.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
