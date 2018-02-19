@@ -28,8 +28,7 @@ namespace H5P
         {
             this.h5pF = H5PFramework;
             this.h5pC = H5PCore;
-        }
-
+        }   
         /**
          * Return path to h5p package.
          *
@@ -40,7 +39,6 @@ namespace H5P
          */
         public void createExportFile(Dictionary<string, dynamic> content)
         {
-
             // Get path to temporary folder, where export will be contained
             string tmpPath = this.h5pC.fs.getTmpPath();
             System.IO.Directory.CreateDirectory(tmpPath);
