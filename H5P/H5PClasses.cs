@@ -41,7 +41,7 @@ namespace H5P
         {
             // Get path to temporary folder, where export will be contained
             string tmpPath = this.h5pC.fs.getTmpPath();
-            System.IO.Directory.CreateDirectory(tmpPath);
+            Directory.CreateDirectory(tmpPath);
 
             try
             {
